@@ -3,7 +3,7 @@ This project focuses on creating a deep learning model to determine if people ar
 
 A Convolutional Neural Network (CNN) is trained with TensorFlow/Keras to sort images into two groups: “With Mask” and “Without Mask.” The model is assessed for accuracy and tested with sample images. OpenCV is also used to show predictions and present test results in the notebook.
 
-Tools & Libraries Used:
+**Tools & Libraries Used:**
 Python
 
 TensorFlow / Keras
